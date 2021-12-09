@@ -1,0 +1,29 @@
+
+$white : #fff;
+$hover : #9bf1ff;
+
+$main  : #242943;
+$secondary : #2a2f4a;
+
+$navBk : rgba(36, 41, 67, 0.9);
+$navLine : rgba(212, 212, 255, 0.1);
+
+$color1 : #6fc3df;
+$color2 : #8d82c4;
+$color3 : #ec8d81;
+$color4 : #e7b788;
+$color5 : #8ea9e8;
+$color6 : #87c5a4;
+
+$footerCnt : rgba(244, 244, 255, 0.2);
+
+@font-face{
+    font-family: 'source';
+    src: url(../webfonts/SourceSansPro-Regular.woff) format('woff'), url(../webfonts/SourceSansPro-Regular.woff2) format('woff2');
+    font-weight: normal;
+}
+@font-face{
+    font-family: 'source';
+    src: url(../webfonts/SourceSansPro-SemiBold.woff) format('woff'), url(../webfonts/SourceSansPro-SemiBold.woff2) format('woff2');
+    font-weight: bold;
+}
